@@ -1,4 +1,8 @@
 hello master
+<<<<<<< HEAD
 hell master111
 
 
+=======
+hell branch
+>>>>>>> newbranch1
